@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+}
+
+#rick {
+    max-width: 100%;
+    max-height: 100%;
+}
