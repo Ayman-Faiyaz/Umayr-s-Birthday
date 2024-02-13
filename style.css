@@ -41,7 +41,7 @@ body::-webkit-scrollbar-thumb:hover {
   width: auto;
   height: auto;
   min-width: 100%;
-  min-height: 100%;
+  min-height: 155%;
   transform: translate(-50%, -50%);
 }
 
